@@ -49,13 +49,13 @@ It is possible to specify the paths where the command to execute resides (in cas
 
 The parameters of each command are taken into account.
 
-### 3.7 Management Of Internal Variables
+### 3.4 Management Of Internal Variables
 
 - List the internal variables of the shell via the built-in [env](./builtins#313-env).
 - Removal of internal and environmental variables, via the built-in [unsetenv](./builtins#316-unsetenv).
 - Creation of environment variables for a single command via the built-in [setenv](./builtins#316-setenv).
 
-### 3.9 Parameter Expansions
+### 3.5 Parameter Expansions
 
 ```
 ~
